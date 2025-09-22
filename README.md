@@ -25,11 +25,8 @@
   
 - **README.md**: The main README file providing an overview of the project and its structure.
 
-## **How to Use**
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/shabi340/TaxiAnalysis.git
+
 
 2. Navigate to the project directory:
    ```bash
@@ -45,8 +42,7 @@
 - **Jupyter Notebook/**
 - **Power BI Desktop/**
 
-## **License**
-This project is licensed under the MIT License.
+
 
 ## **Acknowledgements**
 The sample datasets used in this project were provided by NYC Gov (https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
